@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Time Series Anomaly Detection and Time Series Forecasting 
 - 👀 I would like to learn about: FastAPI and Web Development
 - 🤔 I’m looking for help with: AIOPS Related Topics and Big Data Streaming
-- 💬 Ask me about: Python, Azure, Serverless Architectures
+- 💬 Ask me about: Python, Azure, Serverless Architectures, Azure Functions, Docker Containers, 
 - 📫 How to reach me: Feel free to send me an email -> jorge.garciaserna97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am passionate about Formula 1 and FPS Games
