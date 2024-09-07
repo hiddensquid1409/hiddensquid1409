@@ -22,11 +22,11 @@ Some of the tech I am familiar with:
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jorgegarcia197"/>   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegarcia197"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hiddensquid1409"/>   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegarcia197"/></p>
 
  
  <p align="center">>
- <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgegarcia197&theme=vue"/>
+ <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiddensquid1409&theme=vue"/>
  </p>
  
  <h3 align="center"> ✨You can find me here ✨ </h3>
