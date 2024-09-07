@@ -22,7 +22,7 @@ Some of the tech I am familiar with:
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hiddensquid1409"/>   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegarcia197"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hiddensquid1409"/>   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hiddensquid1409"/></p>
 
  
  <p align="center">>
